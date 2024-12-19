@@ -4,7 +4,13 @@ You can also watch the entire implementation using the below YouTube video Where
 
 https://www.youtube.com/playlist?list=PLdpzxOOAlwvIZ7u-gtpX_bozrspUbTQ1S
 
+
+# Script to automate the process of listing all the resources in an AWS account
+
+# Create List Users -- GitHub API
+
 # AWS S3 Event Triggering
+
 **NOTE**: REPLACE YOUR AWS ACCOUNT ID IN THE LAMBDA FUNCTION CODE.
 
 AWS S3 Event triggering is a very popular project used by top companies in the Industry.
